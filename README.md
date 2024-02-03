@@ -2,8 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me mohamedesmat665@gmail.com.
-- 
--iam graduated from iti in track php fullstack
+- iam graduated from iti in track php fullstack
 - backend with PHP
 - frontend with Angular
 
