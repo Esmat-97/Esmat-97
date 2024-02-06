@@ -5,6 +5,7 @@
 - iam graduated from iti in track php fullstack
 - backend with PHP
 - frontend with Angular
+- ![](https://visitor-badge.laobi.icu/badge?page_id=Esmat-97.Esmat-97)
 
 <!---
 Esmat-97/Esmat-97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
