@@ -42,7 +42,7 @@
 <a  width="40" height="40" >
 
 
-  <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> <img src=" https://github.com/Esmat-97/Esmat-97/assets/158211063/f2924520-5193-443b-8557-e1842f484d52" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Esmat-97/Esmat-97/assets/158211063/f2924520-5193-443b-8557-e1842f484d52" alt="laravel" width="40" height="40"/> </a>
 
    
 </p>
